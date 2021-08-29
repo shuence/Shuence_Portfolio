@@ -10,6 +10,7 @@
     "vite": "^2.3.0"
   },
   "dependencies": {
+    "firebase-admin": "^9.11.1",
     "three": "^0.128.0"
   }
 }
