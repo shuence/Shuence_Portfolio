@@ -47,7 +47,7 @@ canvas {
     background: var(--dark-bg);
     grid-column: 2 / span 5;
     font-size: 3 rem;
-    padding: 2rem;
+    padding: 2.5 rem;
     margin-bottom: var(--spacing);
   }
 
