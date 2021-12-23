@@ -48,6 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuence&show_icons=true&locale=en" alt="shuence" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuence&" alt="shuence" /></p>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31bfl6jyx6k7uklzb2sthadnfbf4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31bfl6jyx6k7uklzb2sthadnfbf4&cover_image=true&theme=default&bar_color=5fecd5&bar_color_cover=true]]
-
