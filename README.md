@@ -41,10 +41,10 @@
 <p><a href="https://www.buymeacoffee.com/shuence"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuence" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsxclan&show_icons=true&locale=en&layout=compact" alt="jsxclan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuence&show_icons=true&locale=en&layout=compact" alt="jsxclan" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jsxclan&show_icons=true&locale=en" alt="jsxclan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuence&show_icons=true&locale=en" alt="jsxclan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsxclan&" alt="jsxclan" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuence&" alt="jsxclan" /></p> 
 
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/jsxclan/jsxclan/output/github-contribution-grid-snake.svg)
